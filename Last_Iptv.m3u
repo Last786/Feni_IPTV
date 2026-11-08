@@ -109,7 +109,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 ===========================================IND_BANGLA=======================================
 
-#EXTINF:-1 group-title="Ind Bangla"tvg-id="317" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" ,Star Jalsha HD
+#EXTINF:-1 group-title="Ind Bangla" tvg-id="317" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" ,Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Ind Bangla"
