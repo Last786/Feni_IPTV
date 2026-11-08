@@ -327,3 +327,31 @@ https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
 ================================PAK_ENTERTAINMENT================================
+
+#EXTINF:-1 group-title="Pak Entertainment" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-3jpg-1751381255548.webp",Aaj Entertainment
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/112401.m3u8
+#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/30_Aj_Entertainment_HD.m3u8
+
+#EXTINF:-1 group-title="Pak Entertainment" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250816/mycolive-21jpg-1755372369345.webp",ARY Digital
+#http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/112394.m3u8
+https://live.msnetworks.net/ary-digital/master.m3u8
+#https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/29_Ary_Digital_HD.m3u8
+
+#EXTINF:-1 group-title="Pak Entertainment" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250915/mycolive-LOCKEDLIVEBUTTONjpg-1757960113731.webp",Geo Entertainment
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/122041.m3u8
+
+#EXTINF:-1 group-title="Pak Entertainment" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250915/mycolive-HUMjpg-1757960022025.webp",Hum TV
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="Pak Entertainment" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250816/mycolive-18jpg-1755368123203.webp",Bol Entertainment
+https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
+
+#EXTINF:-1 group-title="Pak Entertainment" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250704/mycolive-0001jpg-1751636222192.webp",Express Entertainment
+https://vodzong.mjunoon.tv:8087/streamtest/EXP-ENT-159-1/playlist.m3u8
+
+#EXTINF:-1 group-title="Pak Entertainment" tvg-id="685ba90f23efb8c4f551a6ed" tvg-logo="https://assets.myco.io/public/compressed/thumbnails/20250625/mycolive-Watch_green_entertainment_channel_online_freejpg-1750856023512.webp",Green TV
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Green_HD_Pk.m3u8
+
+#EXTINF:-1 group-title="Pak Entertainment" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-Sitaray-Channel-logo.webp?id=80",Hum sitaray
+https://vodzong.mjunoon.tv:8087/streamtest/HumSitaray-157-4/playlist.m3u8
