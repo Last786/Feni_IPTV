@@ -141,8 +141,7 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 https://techandeat.online/sliv/stream.m3u8?id=1000009255|Referer=https://techandeat.online/
 
 #EXTINF:-1 group-title="Ind Bangla" tvg-id="457" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png",Jalsha Movies HD
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/25090.m3u8
-http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
+#http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/25090.m3u8
 https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/14_Jalsha_Movies.m3u8
 
 #EXTINF:-1 group-title="Ind Bangla" tvg-id="685" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png",Zee Bangla Sonar
