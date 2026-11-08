@@ -190,3 +190,44 @@ https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/17_Star_Gold_S
 #EXTINF:-1 group-title="Hindi Movies" tvg-id="3096" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnS-dUfA2Zb07VSEqn1nJlV2qRx2kOmw6F6oNWDa_wWQ&s",Star Gold 2 HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/16_Star_Gold2.m3u8 
+
+#EXTINF:1 group-title="Hindi Movies" tvg-id="0-9-zeeclassic" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png",Zee Bollywood
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+#https://shoeblive.com/zee/zee5.php/0-9-zeeclassic.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-id="0-9-zeeaction" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11024-j8yix4g8-v1/imageContent-11024-j8yix4g8-m1.png",Zee Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PD6NAln3SPGDD3E6dpdg5w","kid":"nXoZF+4yRNGYGTzdH/H+rg"}],"type":"temporary"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-id="0-9-zeeanmolcinema" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11090-j95hdh6o-v1/imageContent-11090-j95hdh6o-m1.png",Zee Anmol Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-id="0-9-bigganga" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZACINE_Thumbnail-v3/ZACINE_Thumbnail.png",Anmol Cinema2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+https://premiumplug.fun/tee/playlist.php/0-9-bigganga.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-id="3418" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX1.png",Sony MAX1
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+http://live.balajibroadband.com:3500/live/3418.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-id="1000044878" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png",Sony MAX2
+https://techandeat.online/sliv/stream.m3u8?id=1000044878|Referer=https://techandeat.online/
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-id="1000009253" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png", Sony WAH
+https://techandeat.online/sliv/stream.m3u8?id=1000009253|Referer=https://techandeat.online/
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-id="1763" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png",Colors Cineplex Bollywood
+#http://103.159.180.34:5001/live/1763.m3u8
+http://live.balajibroadband.com:3500/live/1763.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies" tvg-id="1450" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png",Colors Cineplex Superhit
+#http://103.159.180.34:5001/live/1450.m3u8
+http://live.balajibroadband.com:3500/live/1450.m3u8
