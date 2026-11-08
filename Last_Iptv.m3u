@@ -358,8 +358,6 @@ https://vodzong.mjunoon.tv:8087/streamtest/HumSitaray-157-4/playlist.m3u8
 
 ======================================ENG_MOVIES============================================
 
-
-
 #EXTINF:-1 group-title="English Movies" tvg-id="1104" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12086-j9od8wxc-v1/imageContent-12086-j9od8wxc-m1.png",Star Movies HD
 https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/27_Star_Movies.m3u
 
@@ -443,7 +441,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465
 
-#EXTINF:-1group-title="English Movies" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/anamorphic-logo/400x200/lg1action_epg_logo_400x200.png",LG 1: ACTION
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/anamorphic-logo/400x200/lg1action_epg_logo_400x200.png",LG 1: ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16714
 
