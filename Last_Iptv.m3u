@@ -181,6 +181,7 @@ http://premiumplug.fun/tee/playlist.php/0-9-tvpictureshd.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-id="0-9-209" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" ,And Xplor HD
+http://premiumplug.fun/tee/playlist.php/0-9-209.m3u8
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 http://premiumplug.fun/tee/playlist.php/0-9-209.m3u8
 
