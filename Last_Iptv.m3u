@@ -181,17 +181,19 @@ http://premiumplug.fun/tee/playlist.php/0-9-zeecinemahd.m3u8
 http://premiumplug.fun/tee/playlist.php/0-9-tvpictureshd.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-id="0-9-209" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png",And Xplor HD 
-#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro) 
 http://premiumplug.fun/tee/playlist.php/0-9-209.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-id="1477" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png",Colors Cineplex HD
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Colors_Cineplex_HD.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-id="1113" tvg-logo="https://i.postimg.cc/3R6qMMVk/Star-Gold-Select.jpg",Star Gold Select HD
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Star_Gold_Select_HD.m3u8 
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-id="3096" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnS-dUfA2Zb07VSEqn1nJlV2qRx2kOmw6F6oNWDa_wWQ&s",Star Gold 2 HD
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Star_Gold2_HD.m3u8 
 
 #EXTINF:1 group-title="Hindi Movies" tvg-id="0-9-zeeclassic" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png",Zee Bollywood
