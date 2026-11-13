@@ -904,3 +904,50 @@ https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/oxygen-music.png",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+
+===================================KIDS==========================================
+
+#EXTINF:-1 group-title="Kids"  tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b" ,Duronto TV
+http://103.135.253.32:8080/DORONTU-TV/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",CN HD+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
+https://login.bheem.tv/bpk-tv/22096/output/index.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",Cartoon Network SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b7de008a1685b9fa1aa9e0b8d5cac0a:9ae9aef552a4182de0eb9ab2fae86a17
+https://login.bheem.tv/bpk-tv/22602/output/index.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png",Sonic 
+http://live.balajibroadband.com:3500/live/1345.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png",Nick Bangla
+http://live.balajibroadband.com:3500/live/1341.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",Sony YAY
+https://techandeat.online/sliv/stream.m3u8?id=1000001971|Referer=https://techandeat.online/
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/ny6W-JQBv9knK3AHujXC/posters/7e7c2afe-a663-4c09-983a-2d0fa0f1ca9a.webp",POGO
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=747bbd76538e54aba7b84da4d5dc5aba:bd594239af2c1befc5d117cc72c83f33
+https://login.bheem.tv/bpk-tv/22603/output/index.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp",Discovery Kids
+http://live.balajibroadband.com:3500/live/554.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-id="3385" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gubbare.png",Epic kids 
+https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
+#http://live.balajibroadband.com:3500/live/3385.m3u8
+
+#EXTINF:-1 group-title="kids" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" ,WOW Kidz 
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" ,The Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1702633459-logo.webp?id=32",Minimax hd
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ltn-family-live.webp?id=63",Ltn family
+https://vodzong.mjunoon.tv:8087/streamtest/ltn-family-158-2/playlist.m3u8
