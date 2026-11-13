@@ -841,3 +841,63 @@ https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Sky-Sport-7.m3
 
 ===========================================MUSIC==========================================
 
+#EXTINF:-1 tvg-id="1145" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="Music",MTV HD
+https://raw.githubusercontent.com/Sumon-Feni/IPTV/refs/heads/main/Mtv_HD.m3u8
+
+#EXTINF:-1 tvg-id="587" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png" group-title="Music",9XM
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+
+#EXTINF:-1 tvg-id="440" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-102-j5fl5pyg-v1/imageContent-102-j5fl5pyg-m1.png" group-title="Music",9X Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+
+#EXTINF:-1 tvg-id="183" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png" group-title="Music",B4U Music
+https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="250" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1792397759801.png" group-title="Music",Music India
+http://live.balajibroadband.com:3500/live/250.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/kV1JtGHc/images.jpg",Epic Music 
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-946-j5mip6a0-v1/imageContent-946-j5mip6a0-m1.png",E24 Music
+https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3074" tvg-logo="https://img.media.jio.com/imagespublic/36/1/301764_1721227877270_l_medium.jpg" group-title="Music",Shemaroo Gaane
+http://live.balajibroadband.com:3500/live/3074.m3u8
+
+#EXTINF:-1 tvg-id="2753" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",Balle Balle HD 
+https://mcncdndigital.com/balleballetv/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001373_20250416T005420SQUARE.png",NH BollyRaga
+https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
+
+#EXTINF:-03 group-title="Music" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png", Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-id="0-9-zing" group-title="Music" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png",Zing
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+https://premiumplug.fun/tee/playlist.php/0-9-zing.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-864-j5mava4o-v1/imageContent-864-j5mava4o-m1.png",Sangeet Bangla
+https://cdn.pishow.tv/ott/live/1143/master.m3u8
+
+#EXTINF:-1 tvg-id="8xm.music.pk@SD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/8xm-live.webp?id=19" group-title="Music",8xm music
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/93926d5dd30455efa55a1c0a3bb797e9.png",Steelbird Music
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wah_Punjabi.png", Wah Punjabi
+https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music.png" , Saga Music
+https://amg00223-unisys-amg00223c5-lg-in-2048.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-sagamusic-lgin/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/fon-music.png",FON Music
+https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/oxygen-music.png",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
